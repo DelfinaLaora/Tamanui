@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<album 
+  showbuttons="no"
+  showtitles="no"
+  showrandom="no"
+  randomstart="no"
+  timer="5"
+  transition="blur"
+  speed="20"
+  >
+	<img src="dewslider/img/ecole-tamanui001.JPG"/>
+	<img src="dewslider/img/ecole-tamanui002.JPG"/> 
+	<img src="dewslider/img/ecole-tamanui003.JPG"/> 
+	<img src="dewslider/img/ecole-tamanui004.JPG"/>
+	<img src="dewslider/img/ecole-tamanui005.JPG"/>
+	<img src="dewslider/img/ecole-tamanui006.JPG"/>
+	<img src="dewslider/img/ecole-tamanui007.JPG"/>
+	<img src="dewslider/img/ecole-tamanui008.JPG"/>
+	<img src="dewslider/img/ecole-tamanui009.JPG"/>
+	<img src="dewslider/img/ecole-tamanui010.JPG"/>
+	<img src="dewslider/img/ecole-tamanui011.JPG"/>
+	<img src="dewslider/img/ecole-tamanui012.JPG"/>
+	<img src="dewslider/img/ecole-tamanui013.JPG"/>
+	<img src="dewslider/img/ecole-tamanui014.JPG"/>
+	<img src="dewslider/img/ecole-tamanui015.JPG"/>
+	<img src="dewslider/img/ecole-tamanui016.JPG"/>
+	<img src="dewslider/img/ecole-tamanui017.JPG"/>
+	<img src="dewslider/img/ecole-tamanui018.JPG"/>
+	<img src="dewslider/img/ecole-tamanui019.JPG"/>
+	<img src="dewslider/img/ecole-tamanui020.JPG"/>
+	<img src="dewslider/img/ecole-tamanui021.JPG"/>
+</album>
